@@ -1,0 +1,14 @@
+{
+  "name": "s45_kovai_eats",
+  "version": "1.0.0",
+  "description": "* The project aims to create a platform where users can discover and share the best places to eat in Coimbatore.\r * Users will be able to register/login to the platform and create their personalized lists of favorite restaurants, cafes, street food stalls, and other eateries in Coimbatore.\r * The platform will utilize user generated data to populate the list of best places to eat. By providing a platform for sharing recommendations and experiences, the project aims to enhance the dining experiences of residents and visitors in Coimbatore, contributing to the local food culture and economy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
